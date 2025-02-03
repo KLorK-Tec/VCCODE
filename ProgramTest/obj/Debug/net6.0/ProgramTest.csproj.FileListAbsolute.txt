@@ -1,0 +1,15 @@
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\bin\Debug\net6.0\ProgramTest.exe
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\bin\Debug\net6.0\ProgramTest.deps.json
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\bin\Debug\net6.0\ProgramTest.runtimeconfig.json
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\bin\Debug\net6.0\ProgramTest.dll
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\bin\Debug\net6.0\ProgramTest.pdb
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\ProgramTest.csproj.AssemblyReference.cache
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\ProgramTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\ProgramTest.AssemblyInfoInputs.cache
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\ProgramTest.AssemblyInfo.cs
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\ProgramTest.csproj.CoreCompileInputs.cache
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\ProgramTest.dll
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\refint\ProgramTest.dll
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\ProgramTest.pdb
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\ProgramTest.genruntimeconfig.cache
+C:\Users\Kalhor\Desktop\VCCODE\ProgramTest\obj\Debug\net6.0\ref\ProgramTest.dll

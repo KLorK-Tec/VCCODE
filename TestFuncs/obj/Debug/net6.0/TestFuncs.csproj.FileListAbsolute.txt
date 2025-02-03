@@ -1,0 +1,14 @@
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\bin\Debug\net6.0\TestFuncs.exe
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\bin\Debug\net6.0\TestFuncs.deps.json
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\bin\Debug\net6.0\TestFuncs.runtimeconfig.json
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\bin\Debug\net6.0\TestFuncs.dll
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\bin\Debug\net6.0\TestFuncs.pdb
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\obj\Debug\net6.0\TestFuncs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\obj\Debug\net6.0\TestFuncs.AssemblyInfoInputs.cache
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\obj\Debug\net6.0\TestFuncs.AssemblyInfo.cs
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\obj\Debug\net6.0\TestFuncs.csproj.CoreCompileInputs.cache
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\obj\Debug\net6.0\TestFuncs.dll
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\obj\Debug\net6.0\refint\TestFuncs.dll
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\obj\Debug\net6.0\TestFuncs.pdb
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\obj\Debug\net6.0\TestFuncs.genruntimeconfig.cache
+C:\Users\Kalhor\Desktop\VCCODE\TestFuncs\obj\Debug\net6.0\ref\TestFuncs.dll
